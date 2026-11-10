@@ -1,0 +1,10 @@
+node_modules
+.next
+work
+outputs
+.git
+examples
+db
+dist
+vercel
+build
